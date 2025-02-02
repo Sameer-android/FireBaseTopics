@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FireBaseTopics</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email_address">Email Address</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign-Up</string>
+    <string name="google">Google</string>
+    <string name="Sign_out">sign_Out</string>
+    <string name="sign_out">SignOut\n</string>
+    <string name="default_web_client_id">YOUR_CLIENT_ID_HERE</string>
+
+</resources>

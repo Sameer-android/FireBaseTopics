@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "16464044590",
+    "project_id": "fir-topics-c893b",
+    "storage_bucket": "fir-topics-c893b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16464044590:android:3833a0fd7231281f38b5bf",
+        "android_client_info": {
+          "package_name": "com.example.firebasetopics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16464044590-j07eao03c7gn11v1987ikodhjsvprkh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasetopics",
+            "certificate_hash": "56aa39fe78c30470f1e8b59d54b73c6fb23fb829"
+          }
+        },
+        {
+          "client_id": "16464044590-tvdl2m54ho0pqd3locvtesqnori9ofgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2r0vITYyJkVbA3XaywZZgSaKgiU_K8XM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16464044590-tvdl2m54ho0pqd3locvtesqnori9ofgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
